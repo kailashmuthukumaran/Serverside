@@ -39,8 +39,8 @@ maths.html
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>SURFACE AREA OF RIGHT CYLINDER</title>
-<h2 align="center">SESHA RAGHAVAN</h2>
-<h3 align="center">212224040302</h3>
+<h2 align="center">KAILASH SM </h2>
+<h3 align="center">212222040068</h3>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
